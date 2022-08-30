@@ -8,7 +8,7 @@
 
 Hi, my name is Jacob Ferguson. I am a aspiring Cloud Enginner looking to further develop my skills and add value to the community. 
 
-I started the challenge to show case my skiils and to inspire others to step outside of their comfort zone and dive into the cloud. 
+I started the challenge to show case my skills and to inspire others to step outside of their comfort zone and dive into the cloud. 
 
 At the end of this challenge I will have my AWS Solutions Architect Professional certification. 
 
